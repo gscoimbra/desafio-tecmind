@@ -1,4 +1,4 @@
-# LumiLamp - Landing Page para TecMind
+# Desafio para a vaga de estágio Objetivo Sistemas
 
 ## Descrição do Desafio
 
